@@ -9,4 +9,5 @@ func main() {
 	fmt.Println(x)
 	x += "second"
 	fmt.Println(x)
+	y := 7.0
 }
